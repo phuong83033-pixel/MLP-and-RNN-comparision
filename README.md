@@ -1,4 +1,3 @@
-# ML-Midterm
 This project focuses on Sentiment Analysis, comparing two fundamental architectural families: MLPs (Bag-of-Words approach) and RNNs/LSTMs/GRUs (Sequential approach).
 
 # Sentiment Analysis on IMDb Dataset: MLP vs. RNN Architectures
@@ -37,7 +36,3 @@ The project follows a rigorous deep learning pipeline:
 ├── src/                  
 └── Readme.md 
 
-### 6.Team Meber Contributions
-
-NguyenMinhDuc_523C0007 :Implement MLP, Data_preprocessing, Visualization & Documentation 
-NguyenHoangMinh_523C0001 : Implement RNN, Model evaluation & Documentation 
